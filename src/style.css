@@ -1,21 +1,32 @@
 body {
   background-color: #9b5d73;
+  font-family: "Ubuntu", sans-serif;
+}
+
+main {
+  background-color: white;
+  width: 40%;
+  display: block;
+  margin: 0 auto;
+  border-radius: 10px;
+  padding: 20px;
+}
+
+select {
+  display: block;
+  margin: 0 auto;
+  width: 100%;
+  padding: 5px;
+  border-radius: 5px;
 }
 
 footer {
   text-align: center;
   color: #fff1c5;
+  font-size: 14px;
+  margin-top: 10px;
 }
 
 a {
   color: white;
-}
-
-main {
-  background-color: white;
-  width: 60%;
-  display: block;
-  margin: 0 auto;
-  border-radius: 10px;
-  padding: 20px;
 }
